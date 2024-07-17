@@ -1,0 +1,25 @@
+{
+  "name": "CSS Scope Inline",
+  "version": "0.1.0",
+  "description": "Scope your inline style tags in pure vanilla CSS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gnat/css-scope-inline.git"
+  },
+  "author": "gnat",
+  "keywords": [
+    "utility",
+    "dom",
+    "dom-manipulation",
+    "lob",
+    "locality-of-behavior",
+    "htmx",
+    "selector",
+    "queryselectorall",
+    "queryselector"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnat/css-scope-inline/issues"
+  }
+}
