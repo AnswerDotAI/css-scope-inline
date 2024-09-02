@@ -1,6 +1,6 @@
 {
   "name": "CSS Scope Inline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Scope your inline style tags in pure vanilla CSS",
   "repository": {
     "type": "git",
